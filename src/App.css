@@ -1,0 +1,12 @@
+.img-pr{
+  width: 150px;
+  height: 200px;
+}
+.cardProduit{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ margin-top: 20px;
+
+}

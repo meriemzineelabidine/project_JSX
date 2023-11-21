@@ -1,0 +1,2 @@
+const Produit ={name:"iphone",price:4000,description:"iphone14",urlImage:"https://images.unsplash.com/photo-1606041011872-596597976b25?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwbGUlMjBpcGhvbmV8ZW58MHx8MHx8fDA%3D"};
+export default Produit
